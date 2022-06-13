@@ -1,1 +1,2 @@
 Also_not_empty
+but_can_be_empty
